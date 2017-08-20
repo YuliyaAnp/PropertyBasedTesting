@@ -1,5 +1,5 @@
-﻿using Md5;
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using HashGenerator;
 
 namespace Md5GeneratorTests
 {
