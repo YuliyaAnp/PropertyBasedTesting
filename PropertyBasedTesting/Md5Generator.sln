@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5Generator", "Calculator\Md5Generator.csproj", "{ED2D9879-A723-46D7-AC56-E5349DDD5408}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5Generator", "Md5Generator\Md5Generator.csproj", "{ED2D9879-A723-46D7-AC56-E5349DDD5408}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5GeneratorTests", "Md5GeneratorTests\Md5GeneratorTests.csproj", "{A3D013A6-FDAC-4470-8CFC-5FD259EA163E}"
 EndProject

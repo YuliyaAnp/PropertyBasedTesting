@@ -74,7 +74,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Calculator\Md5Generator.csproj">
+    <ProjectReference Include="..\Md5Generator\Md5Generator.csproj">
       <Project>{ED2D9879-A723-46D7-AC56-E5349DDD5408}</Project>
       <Name>Md5Generator</Name>
     </ProjectReference>
